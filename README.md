@@ -1,2 +1,2 @@
 # ricequant_notebook
-在米矿上编写的策略
+在米筐上编写的策略
