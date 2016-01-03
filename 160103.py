@@ -60,4 +60,5 @@ def handle_bar(context, bar_dict):
         order_target_value(context.s1, 0)
         order_target_value(context.s2, 0)
 
-
+#结果的回撤触目惊心
+#夏普率就那样
